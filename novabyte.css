@@ -21,6 +21,35 @@
   --darkplus-emoji-picker-color: 210deg;
 }
 
+
+.icon_a46bef {
+  margin-top: 1px;
+  transform: scale(0.75);
+}
+
+.modeUnreadImportant_d8bfb3 .link_d8bfb3 {
+  background: linear-gradient(to right, #f8c2c214, #f8c2c205, #f8c2c200);
+}
+
+.modeUnreadImportant_d8bfb3  .iconBase_e2a798 {
+  animation: breathe 1s ease-in-out infinite;
+}
+
+
+@keyframes breathe {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.25);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+  }
+
 .theme-dark #vc-spotify-player {
   background-color: var(--darkplus-bg);
   border-bottom: 1px solid #daa4a430;
