@@ -21,6 +21,19 @@
   --darkplus-emoji-picker-color: 210deg;
 }
 
+.wrapper_ba23fe {
+  background-color: var(--darkplus-bg);
+  box-shadow: 2px 0px #3e3a5050;
+}
+
+.content_b56bbc {
+  background-color: var(--darkplus-bg);
+}
+
+.header_b56bbc {
+  background-color: var(--darkplus-bg);
+}
+
 .subtext_c91bad {
   color: #f8c2c2a0;
 }
